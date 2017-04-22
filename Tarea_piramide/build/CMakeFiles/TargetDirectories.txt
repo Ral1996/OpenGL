@@ -1,0 +1,1 @@
+/home/raul/Documentos/AG/Clases_AG/Tarea_piramide/build/CMakeFiles/hello.dir
