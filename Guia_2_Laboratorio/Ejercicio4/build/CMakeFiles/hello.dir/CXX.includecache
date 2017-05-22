@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/raul/Documentos/OpenGl_gitHup/Guia_2_Laboratorio/Ejercicio4/main.cpp
+GL/glut.h
+-
+GL/glu.h
+-
+stdlib.h
+-
+GL/gl.h
+-
+math.h
+-
+
